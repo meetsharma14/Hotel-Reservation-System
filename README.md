@@ -16,6 +16,7 @@ Object-Oriented Programming (OOP)
 File Handling
 Collections Framework (List, ArrayList)
 Java I/O (BufferedReader, BufferedWriter)
+
 Project Structure
 
 hotelReservationSystem/
@@ -65,7 +66,9 @@ Menu options:
 3. Cancel a Booking
 4. View Bookings
 5. Exit
+   
 How It Works
+
 Rooms are loaded from rooms.txt
 User selects an option from the menu
 System processes the request
@@ -94,8 +97,11 @@ cd hotel-reservation-system
 javac hotelReservationSystem/*.java
 4. Run the program
 
+
 java hotelReservationSystem.Main
+
 Concepts Used
+
 Object-Oriented Programming
 Encapsulation
 File Handling
@@ -107,6 +113,9 @@ Add payment integration
 Add admin dashboard
 Add database (MySQL)
 Online booking system
+
 Author
+
 Meet Sharma
+
 B.Tech CSE
